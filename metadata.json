@@ -1,0 +1,8 @@
+{
+  "name": "Nova",
+  "description": "A futuristic AI smartphone assistant that helps you order food, find places, and manage tasks with just one sentence.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
